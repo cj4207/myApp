@@ -17,6 +17,7 @@ bower_components/
 .env.development
 .env.test
 .env.production
+config.js
 
 # 빌드 결과물
 dist/
